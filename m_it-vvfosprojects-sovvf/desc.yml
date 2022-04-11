@@ -1,0 +1,49 @@
+deployment_descriptions:
+  single_tier:
+    generic_description:
+      en: >
+        My role included **supervising** the marketing team and leading **publicity**.
+      it: >
+        Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.
+    launch_description:
+      en: >
+        My role included **supervising** the marketing team and leading **publicity**.
+      it: >
+        Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.
+    links:
+      - title: 
+          en: Link 1
+          it: Collegamento 1
+        url: '/it/piattaforme'
+  multi_tier:
+    generic_description:
+      en: >
+        My role included **supervising** the marketing team and leading **publicity**.
+      it: >
+        Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.
+    launch_description:
+      en: >
+        My role included **supervising** the marketing team and leading **publicity**.
+      it: >
+        Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.
+    links:
+      - title:
+          en: Link 1
+          it: Collegamento 1
+        url: '/it/piattaforme'
+  docker:
+    generic_description:
+      en: >
+        My role included **supervising** the marketing team and leading **publicity**.
+      it: >
+        Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.
+    launch_description:
+      en: >
+        My role included **supervising** the marketing team and leading **publicity**.
+      it: >
+        Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.
+    links:
+      - title:
+          en: Link 1
+          it: Collegamento 1
+        url: '/it/piattaforme'
